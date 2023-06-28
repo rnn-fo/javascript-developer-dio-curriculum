@@ -1,0 +1,82 @@
+{
+    "profileInfo":{
+        "name":"Renan Florencio de Oliveira",
+        "profileImg":"https://raw.githubusercontent.com/rnn-fo/javascript-developer-dio-curriculum/master/img/profile.png",
+        "job":"Desenvolvedor",
+        "location":"Curitiba - PR",
+        "phone":"41 99XXX-XXXX",
+        "email":"xpto@gmail.com"
+    },
+    "skillsInfo":[
+      {
+        "title":"Python",
+        "skillIcon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      },
+      {
+        "title":"Java",
+        "skillIcon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      },
+      {
+        "title":"C#",
+        "skillIcon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      },
+      {
+        "title":"Groovy",
+        "skillIcon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg"
+      },
+      {
+        "title":"Jenkins",
+        "skillIcon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
+      },
+      
+      {
+        "title":"Docker",
+        "skillIcon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+      },
+      {
+        "title":"HTML",
+        "skillIcon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      },
+      {
+        "title":"CSS",
+        "skillIcon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+      },
+      {
+        "title":"Javascript",
+        "skillIcon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      }
+    ],
+    "educationInfo":[
+        {
+            "title":"Análise e Desenvolvimento de Sistemas",
+            "university":"Universidade XPTO",
+            "date":"01/2021 - 06/2023"
+        } 
+    ],
+    "certificationInfo":[
+        {
+            "title":"Azure Fundamentals - AZ-900",
+            "link":"https://learn.microsoft.com/pt-br/certifications/exams/az-900/",
+            "certificationImg":"https://raw.githubusercontent.com/rnn-fo/javascript-developer-dio-curriculum/master/img/certifications/AZ-900.png"
+        },
+        {
+            "title":"Oracle Cloud Infraestructure - OCI",
+            "link":"https://www.oracle.com/br/cloud/",
+            "certificationImg":"https://raw.githubusercontent.com/rnn-fo/javascript-developer-dio-curriculum/master/img/certifications/OCI.png"
+        } 
+    ],
+    "professionalExperience":[
+        {
+            "title":"Desenvolvedor Pl.",
+            "company":"XPTO",
+            "date":"01/2021 - Atual",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tristique nulla a sapien lacinia sagittis. Aenean tellus nisl, elementum vel scelerisque at, pharetra et ex. Quisque porta augue nibh, a faucibus nisi rutrum ac. Sed ullamcorper velit ut dui ultrices volutpat. In et fermentum dolor, a elementum ipsum. Curabitur sit amet ultrices tellus. Donec nec iaculis dolor. Aliquam eu justo tellus. Aenean dignissim, tellus quis vulputate iaculis, ipsum nulla condimentum leo, quis suscipit nunc metus sit amet orci. Sed eget justo vel magna gravida iaculis. Maecenas a eros tincidunt urna facilisis molestie. Sed blandit luctus nibh, nec malesuada metus pretium sit amet. Cras pellentesque, quam a dignissim semper, nisi lectus convallis velit, a vulputate sem purus sit amet mauris. Pellentesque id sem sit amet ante bibendum sodales non ut est. Donec enim arcu, consectetur sed turpis nec, dapibus vehicula nulla. Donec sagittis sem id euismod rhoncus."
+        },
+        {
+            "title":"Desenvolvedor Jr.",
+            "company":"XPTO",
+            "date":"01/2019 - 01/2021",
+            "description":"Vestibulum id ornare odio. Nunc vel nisl tellus. Aliquam nec ipsum vitae purus pharetra tincidunt aliquam in lorem. Duis varius placerat velit a tempor. Nulla lacinia dolor in ipsum ultrices semper. Mauris eget libero hendrerit augue sodales interdum nec vel risus. Nulla ac eros nec urna fringilla posuere. Pellentesque leo odio, lobortis vitae tristique in, hendrerit eu nunc. Nulla nibh massa, varius non fringilla nec, tincidunt euismod mi. Praesent eu egestas libero. Morbi faucibus pharetra auctor."
+        }
+    ]
+}
