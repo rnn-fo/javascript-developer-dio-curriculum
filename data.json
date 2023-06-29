@@ -1,7 +1,7 @@
 {
     "profileInfo":{
         "name":"Renan Florencio de Oliveira",
-        "profileImg":"https://raw.githubusercontent.com/rnn-fo/javascript-developer-dio-curriculum/master/img/profile.png",
+        "profileImg":"https://raw.githubusercontent.com/rnn-fo/javascript-developer-dio-curriculum/master/assets/img/profile.png",
         "job":"Desenvolvedor",
         "location":"Curitiba - PR",
         "phone":"41 99XXX-XXXX",
@@ -57,12 +57,12 @@
         {
             "title":"Azure Fundamentals - AZ-900",
             "link":"https://learn.microsoft.com/pt-br/certifications/exams/az-900/",
-            "certificationImg":"https://raw.githubusercontent.com/rnn-fo/javascript-developer-dio-curriculum/master/img/certifications/AZ-900.png"
+            "certificationImg":"https://raw.githubusercontent.com/rnn-fo/javascript-developer-dio-curriculum/master/assets/img/certifications/AZ-900.png"
         },
         {
             "title":"Oracle Cloud Infraestructure - OCI",
             "link":"https://www.oracle.com/br/cloud/",
-            "certificationImg":"https://raw.githubusercontent.com/rnn-fo/javascript-developer-dio-curriculum/master/img/certifications/OCI.png"
+            "certificationImg":"https://raw.githubusercontent.com/rnn-fo/javascript-developer-dio-curriculum/master/assets/img/certifications/OCI.png"
         } 
     ],
     "professionalExperienceInfo":[
