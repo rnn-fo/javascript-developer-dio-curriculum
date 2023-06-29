@@ -1,0 +1,88 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.education, .professionalExperience, .skills{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 1.75rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    margin-left: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.education h3, .professionalExperience h3{
+    margin-bottom: 0px;
+}
+
+.professionalExperience p{
+    padding-right: 1rem;
+}
+
+.skills ol{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0%;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.skills li{
+    padding-top: .2rem;
+    padding-right: 1rem;
+}
+
+.skillsImg{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding-left: 1.75rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    margin-left: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: .2rem;
+    flex-wrap: wrap;
+}
+.skillsImg img{
+    width: min(20%,50px);
+}
+
+.certifications{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem auto;
+    flex-wrap: wrap;
+}
+
+.certifications a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.certifications img{
+    padding: 0.3rem;
+}
+
+.certifications img:hover{
+    cursor: pointer;
+}
+
+.certifications .az900img{
+    width: min(40%,85px);
+}
+
+.certifications .ociimg{
+    width: min(40%,100px);
+}

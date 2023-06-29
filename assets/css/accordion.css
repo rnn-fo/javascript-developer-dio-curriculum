@@ -1,0 +1,42 @@
+.accordion{
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.937);
+    transition: 0.4s;
+}
+
+.accordion .accordionTrigger{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+    padding: 1rem 2rem;
+    border: none;
+    cursor: pointer;
+}
+
+.accordion .accordionContent{
+    display: none;
+    border-radius: 1rem;
+}
+
+.active, .accordion:hover {
+    background-color: rgba(204, 204, 204, 0.619);
+}
+
+.accordionTrigger:after {
+    content: '\276F';
+    color: rgb(193, 6, 6);
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+    transition: all .25s;
+}
+
+.active:after {
+    transform: rotate(90deg);
+}
